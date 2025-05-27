@@ -8,14 +8,12 @@ The dataset (cheese.csv) was obtained from Kaggle and follows the Open Governmen
 The goal of this project was to apply classification techniques to predict the fat level (Low, Medium, High) of different cheese samples based on their nutritional attributes. I also explored anomaly detection as an extension of the classification task.
 
 🎯 Objectives
-
-Use supervised learning models to classify cheese fat levels
-Apply feature engineering and preprocessing to improve model performance
-Evaluate models using metrics such as F1-score and ROC-AUC
-Investigate model reliability and anomaly detection for edge cases
+1. Use supervised learning models to classify cheese fat levels
+2. Apply feature engineering and preprocessing to improve model performance
+3. Evaluate models using metrics such as F1-score and ROC-AUC
+4. Investigate model reliability and anomaly detection for edge cases
 
 🛠 Tools & Techniques
-
 Python (Pandas, NumPy, Scikit-learn)
 Logistic Regression, SVM, Decision Tree Classifier
 ROC-AUC, Confusion Matrix, F1-Score
@@ -24,7 +22,6 @@ Jupyter Notebook for analysis
 
 
 📌 Key Takeaways
-
-Feature scaling and selection significantly impacted model accuracy
-SVM performed best among the models tested, especially for medium-fat classification
-Real-time anomaly detection methods helped flag data inconsistencies or edge-case predictions
+1. Feature scaling and selection significantly impacted model accuracy.
+2. SVM performed best among the models tested, especially for medium-fat classification.
+3. Real-time anomaly detection methods helped flag data inconsistencies or edge-case predictions.
